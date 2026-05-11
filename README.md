@@ -1,4 +1,4 @@
-### Hi, I'm Stéphane
+### Stéphane Guerrier
 
 Associate Professor of Statistics & Data Science at the [University of Geneva](https://www.unige.ch/).
 
